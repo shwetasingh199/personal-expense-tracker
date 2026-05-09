@@ -98,7 +98,8 @@ The dashboard includes:
 
 ## 📸 Dashboard Preview
 
-<img width="1491" height="453" alt="Screenshot 2026-05-09 165535" src="https://github.com/user-attachments/assets/c2e3eb13-236d-4b42-9d8f-9b300ffe32fb" />
+<img width="1487" height="862" alt="Screenshot 2026-05-09 165517" src="https://github.com/user-attachments/assets/d22c8273-dd50-4126-b6f9-0c89769104e4" />
+
 
 
 
@@ -121,7 +122,8 @@ Visual analytics help users:
 
 ## Transactions
 
-<img width="1487" height="862" alt="Screenshot 2026-05-09 165517" src="https://github.com/user-attachments/assets/afa3715d-37f9-4b5a-98fa-0fa50689c904" />
+<img width="1491" height="453" alt="Screenshot 2026-05-09 165535" src="https://github.com/user-attachments/assets/6e6939bc-aedd-4c23-a99b-34a83998cdaf" />
+
 
 ---
 
