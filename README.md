@@ -98,7 +98,8 @@ The dashboard includes:
 
 ## 📸 Dashboard Preview
 
-<img width="1491" height="453" alt="Screenshot 2026-05-09 165535" src="https://github.com/user-attachments/assets/b8404238-2e72-4edd-ac76-347e9c4bc8ff" />
+<img width="1491" height="453" alt="Screenshot 2026-05-09 165535" src="https://github.com/user-attachments/assets/c2e3eb13-236d-4b42-9d8f-9b300ffe32fb" />
+
 
 
 ---
