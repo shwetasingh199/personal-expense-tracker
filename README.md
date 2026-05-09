@@ -100,9 +100,6 @@ The dashboard includes:
 
 <img width="1487" height="862" alt="Screenshot 2026-05-09 165517" src="https://github.com/user-attachments/assets/d22c8273-dd50-4126-b6f9-0c89769104e4" />
 
-
-
-
 ---
 
 # 📈 Expense Analytics
@@ -132,7 +129,7 @@ Visual analytics help users:
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/personal-expense-tracker.git
+git clone https://github.com/shwetasingh199/personal-expense-tracker
 ```
 
 ---
@@ -222,7 +219,9 @@ This project demonstrates skills in:
 
 # 👨‍💻 Author
 
-**Your Name**
+Shweta Singh
+ECM 3rd Year
+Punjabi University, Patiala
 
 ---
 
